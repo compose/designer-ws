@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta charset="utf-8">
+    <meta name="HandheldFriendly" content="true">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title><%= current_page.data.title || "Pied Piper" %></title>
+    <%= stylesheet_link_tag :site %>
+    <%= javascript_include_tag :all %>
+  </head>
+
+  <!--
+  Your layout, if you choose to design it.
+  Feel free to modify all markup however you'd like.
+  -->
+  <body class="<%= page_classes %>">
+    <h1>Pied Piper</h1>
+    <ul>
+      <li><a>Home</a></li>
+      <li><a>About</a></li>
+      <li><a>Products</a></li>
+      <li><a>Contact</a></li>
+    </ul>
+    <%= yield %>
+  </body>
+</html>
