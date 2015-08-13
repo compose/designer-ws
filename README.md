@@ -3,7 +3,7 @@ Design Work Sample
 
 Your mission, if you choose to accept it, is to design a landing page for [Pied Piper](http://www.hbo.com/silicon-valley) — everyone’s favorite fictional startup. We’ve provided content, basic markup, as well as assets to get you started.
 
-### Things to Know:
+### Things to Know
 
 * You can modify all markup to your heart’s content.
 * All assets can be modified, substituted, or supplemented — even the logo. Go wild.
@@ -11,14 +11,14 @@ Your mission, if you choose to accept it, is to design a landing page for [Pied 
 
 ## Work Sample
 
-* Design and implement a landing page using HTML and CSS. The main goal for this landing page is to create brand awareness for Pied Piper, as well as convince potential customers to become actual customers.
+* Design and implement a landing page using HTML, CSS, and optionally Javascript. The main goal for this landing page is to create brand awareness for Pied Piper, as well as convince potential customers to become actual customers.
 
-### Getting Started:
+### Getting Started
 
+* [Download this project](https://github.com/compose/designer-ws/archive/master.zip) or fork it if you prefer.
 * This project is built in [Middleman](https://middlemanapp.com/) — a Ruby-based static site generator.
 * Steps to install and run this project locally can be found on the [Middleman Getting Started page](https://middlemanapp.com/basics/install/).
 
-### Finishing Up:
+### Submitting your work sample
 
-* Steps to export your finished project can be found on the [Middleman deployment page](https://middlemanapp.com/basics/build_and_deploy/).
-*  Provide a .zip file of the `build` directory for submission.
+* Zip up your source files and submit them through Compose's Application site.
