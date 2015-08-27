@@ -12,6 +12,6 @@ Design and implement a landing page for [Pied Piper](http://www.hbo.com/silicon-
 
 #### Getting Started
 
-* [Download this project](https://github.com/compose/designer-ws/archive/master.zip) or fork it if you prefer.
+* [Download this project](https://github.com/compose/designer-ws/archive/master.zip), please do not fork it to your own public repo or others could see your work. 
 * Use voodoo, magic, or telepathy to complete and implement your design.
-* Zip up your source files and submit them through Compose’s [application site](https://jobs.compose.io/jobs/openings/designer).
+* Zip up your source files and submit them through the link you received for the work sample. 
