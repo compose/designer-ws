@@ -6,7 +6,7 @@ Design and implement a landing page for [Pied Piper](http://www.hbo.com/silicon-
 #### Things to Know
 
 * We’ve provided content, basic markup, as well as assets to get you started.
-* All content must remain intact, but all markup can be modified, substituted, or supplemented.
+* All copy must remain intact, but all markup can be modified, substituted, or supplemented.
 * All assets can be modified, substituted, or supplemented — even the logo. Go wild.
 * This project will in no way be used by anyone, ever, and completely belongs to you (and HBO).
 
